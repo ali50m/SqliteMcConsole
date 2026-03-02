@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/SqliteMcConsole/SqliteMcConsole.csproj" />
+  <Project Path="src/SqliteMcConsoleNew/SqliteMcConsoleNew.csproj" />
+</Solution>
